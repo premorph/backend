@@ -1,0 +1,8 @@
+{
+    "exportall.config.relExclusion": [
+        "/src/domain/useCase/user/index.ts"
+    ],
+    "exportall.config.folderListener": [
+        "/src/domain/useCase/user"
+    ]
+}
